@@ -28,11 +28,7 @@
   </text>
 
   <text x="600" y="168" font-family="monospace" font-size="17" fill="#7dd3fc" text-anchor="middle" letter-spacing="1">
-    applied AI engineer :: data to deployment
-  </text>
-
-  <text x="600" y="196" font-family="monospace" font-size="13" fill="#475569" text-anchor="middle">
-    python · pytorch · tensorflow · fastapi · nepal
+    where ideas become systems
   </text>
 
   <text x="30" y="245" font-family="monospace" font-size="11" fill="#1e293b">v2.6 // status: building</text>
