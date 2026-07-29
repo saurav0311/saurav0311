@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saurav0311/saurav0311/main/assests/banner.svg" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2200&pause=1000&repeat=false&color=E6EDF3&background=0D111700&center=true&vCenter=true&width=600&height=60&lines=SAURAV+NEUPANE" alt="Saurav Neupane" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&delay=2400&repeat=false&color=60A5FA&background=0D111700&center=true&vCenter=true&width=500&height=30&lines=where+ideas+become+systems" alt="where ideas become systems" />
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=training+models+that+ship%2C+not+just+notebooks" alt="typing-svg" />
 
 </div>
-
-<br>
 
 ### Hi, I'm Saurav 👋
 
