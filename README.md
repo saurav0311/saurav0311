@@ -26,8 +26,8 @@ trains and compares 8 regression models by cross-validation, then evaluates, ver
 <img src="./assets/h-featured.svg" width="100%" alt="01 — Featured work" />
 
 <!-- TODO: wrap each card in <a href="https://github.com/saurav0311/REPO">…</a> once the repository is public -->
-<img src="./assets/card-cmapss.svg" width="49%" alt="C-MAPSS predictive maintenance — RUL prediction on NASA C-MAPSS FD001: MAE 16.79, RMSE 24.43, R² 0.654" />
-<img src="./assets/card-hyperspectral.svg" width="49%" alt="Hyperspectral image classification on Pavia University — dimensionality reduction, CNN experiments (experimental)" />
+<img src="./assets/card-cmapss.svg" width="49%" alt="Self-healing turbofan fleet — NASA C-MAPSS FD001: RUL, failure risk and anomaly detection to work orders; MAE 9.72, RMSE 13.22, R² 0.899" />
+<img src="./assets/card-hyperspectral.svg" width="49%" alt="Hyperspectral image classification on Pavia University — PCA + SVM vs CNN vs Vision Transformer; test accuracy CNN 99.55%, ViT 98.65%, PCA + SVM 91.25%" />
 
 <!--
 Concrete Printability Prediction — uncomment and add a card once the repository is public.
