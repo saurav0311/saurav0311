@@ -12,12 +12,11 @@ working where **ML research** meets **backend engineering**.
 
 <br/>
 
-<a href="https://inferlabs.tech"><img src="./assets/inferlabs-banner.svg" width="100%" alt="InferLabs — live V1. Workflow: upload, profile, target, validate, automatic preprocessing, train, compare, evaluate, registry, predict." /></a>
 
 **InferLabs** is my AutoML platform for tabular data — upload a CSV and it validates the data, preprocesses it automatically,<br/>
 trains and compares regression models by cross-validation, then evaluates, versions and serves predictions. Designed, built and deployed by me.
 
-<a href="https://inferlabs.tech"><img src="./assets/inferlabs-demo.gif" width="100%" alt="InferLabs walkthrough — upload, profile, target, validation, automatic preprocessing, training and comparison of 8 models, held-out evaluation, registry and prediction" /></a>
+<a href="https://inferlabs.tech"><img src="./assets/inferlabs-showcase.gif" width="100%" alt="InferLabs: live no-code AutoML for regression and classification. Create a project, upload, profile, target, validation, preprocessing, training, optional optimization, comparison, evaluation, registry and prediction." /></a>
 
 [**→ Try it live**](https://inferlabs.tech) &nbsp;&nbsp;·&nbsp;&nbsp; [Share feedback](mailto:sauravneupane031@gmail.com?subject=InferLabs%20feedback) &nbsp;&nbsp;·&nbsp;&nbsp; <sub>Classification coming in V2</sub>
 
